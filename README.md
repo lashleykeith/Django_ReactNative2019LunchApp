@@ -12,6 +12,6 @@ https://restaurantsapidjango.herokuapp.com/
 
 ## Native Mobile View of the app
 
-## api
+## Api
 https://restaurantsapidjango.herokuapp.com/api/list.json
 
