@@ -1,0 +1,9 @@
+dj-database-url==0.5.0
+Django==2.1.4
+django-heroku==0.3.1
+djangorestframework==3.9.0
+gunicorn==19.7.1
+Pillow==5.3.0
+psycopg2==2.7.6.1
+pytz==2018.7
+whitenoise==3.3.1
